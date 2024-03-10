@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assigment_react_password_generator/static/css/main.efc3d755.css",
+    "main.js": "/Assigment_react_password_generator/static/js/main.9643fd3c.js",
+    "static/js/453.02c29438.chunk.js": "/Assigment_react_password_generator/static/js/453.02c29438.chunk.js",
+    "index.html": "/Assigment_react_password_generator/index.html",
+    "main.efc3d755.css.map": "/Assigment_react_password_generator/static/css/main.efc3d755.css.map",
+    "main.9643fd3c.js.map": "/Assigment_react_password_generator/static/js/main.9643fd3c.js.map",
+    "453.02c29438.chunk.js.map": "/Assigment_react_password_generator/static/js/453.02c29438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc3d755.css",
+    "static/js/main.9643fd3c.js"
+  ]
+}
